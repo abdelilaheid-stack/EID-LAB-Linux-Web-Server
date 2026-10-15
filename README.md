@@ -5,7 +5,7 @@ A hands-on Linux system administration and cybersecurity project using Kali Linu
 
 ## **Project Progress**
 
-### **Phase 1: Environment Setup**
+## ![Phase 01](https://img.shields.io/badge/PHASE_01-2374AB?style=for-the-badge) Environment Setup 
 - [x] Create GitHub repository
 - [ ] Verify Kali Linux installation
 - [ ] Check system information
@@ -13,7 +13,9 @@ A hands-on Linux system administration and cybersecurity project using Kali Linu
 - [ ] Update package repositories
 - [ ] Document VM configuration
 
-### **Phase 2: Storage Management**
+
+## ![Phase 02](https://img.shields.io/badge/PHASE_02-E67E22?style=for-the-badge) Storage Management
+
 - [ ] Identify available virtual disks
 - [ ] Add a dedicated virtual disk in VMware
 - [ ] Create a partition
@@ -22,34 +24,41 @@ A hands-on Linux system administration and cybersecurity project using Kali Linu
 - [ ] Configure persistent mounting
 - [ ] Verify storage configuration
 
-### **Phase 3: Logical Volume Management (LVM)**
+## ![Phase 03](https://img.shields.io/badge/PHASE_03-8E44AD?style=for-the-badge) Logical Volume Management (LVM)
+
+
 - [ ] Create Physical Volume (PV)
 - [ ] Create Volume Group (VG)
 - [ ] Create Logical Volume (LV)
 - [ ] Format and mount the logical volume
 - [ ] Verify LVM configuration
 
-### **Phase 4: Apache Web Server**
+## ![Phase 04](https://img.shields.io/badge/PHASE_04-C0392B?style=for-the-badge) Apache Web Server
+
+
 - [ ] Install Apache
 - [ ] Start and enable Apache
 - [ ] Verify Apache service status
 - [ ] Create custom EID LAB HTML website
 - [ ] Test website locally
 
-### **Phase 5: Firewall and Networking**
+## ![Phase 05](https://img.shields.io/badge/PHASE_05-168A62?style=for-the-badge) Firewall and Networking
+
+
 - [ ] Identify Kali Linux IP address
 - [ ] Configure HTTP firewall rules
 - [ ] Verify listening ports
 - [ ] Test website from a second VM
 - [ ] Troubleshoot connectivity
+## ![Phase 06](https://img.shields.io/badge/PHASE_06-B68A10?style=for-the-badge) Python Application
 
-### **Phase 6: Python Application**
+
 - [ ] Create Python guessing game
 - [ ] Test Python application
 - [ ] Document application usage
 
-### **Phase 7: Documentation**
-- [ ] Capture screenshots
+## ![Phase 07](https://img.shields.io/badge/PHASE_07-566573?style=for-the-badge) Documentation
+- [ ] Identify available virtual disks- [ ] Capture screenshots
 - [ ] Explain Linux commands
 - [ ] Document verification results
 - [ ] Document troubleshooting
@@ -69,4 +78,5 @@ A hands-on Linux system administration and cybersecurity project using Kali Linu
 
 ## **Author**
 **Abdulelah Eid** | Cybersecurity Student
-  
+
+
