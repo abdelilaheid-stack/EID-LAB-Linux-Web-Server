@@ -163,4 +163,8 @@ Tasks and evidence will be updated as each phase is completed.
 ## **Author**
 
 **Abdulelah Eid** | Cybersecurity Student
-  
+
+  ### ![Phase 01](https://img.shields.io/badge/PHASE_01-2374AB?style=for-the-badge) Environment Preparation
+  Step 1: Identify the Linux environment
+  <img width="552" height="942" alt="image" src="https://github.com/user-attachments/assets/b0245c40-140e-4eaa-8678-ade9005a4c9a" />
+
