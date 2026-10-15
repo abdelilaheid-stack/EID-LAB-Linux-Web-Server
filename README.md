@@ -58,7 +58,7 @@ A hands-on Linux system administration and cybersecurity project using Kali Linu
 - [ ] Document application usage
 
 ## ![Phase 07](https://img.shields.io/badge/PHASE_07-566573?style=for-the-badge) Documentation
-- [ ] Identify available virtual disks- [ ] Capture screenshots
+- [ ] Capture screenshots
 - [ ] Explain Linux commands
 - [ ] Document verification results
 - [ ] Document troubleshooting
